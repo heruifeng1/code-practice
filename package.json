@@ -1,0 +1,24 @@
+{
+  "name": "code-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heruifeng1/code-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heruifeng1/code-practice/issues"
+  },
+  "homepage": "https://github.com/heruifeng1/code-practice#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.10.4",
+    "jest": "^26.3.0"
+  }
+}
