@@ -4,7 +4,7 @@
   "description": "",
   "main": "abc.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
